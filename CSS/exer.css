@@ -1,0 +1,13 @@
+
+
+body{
+    background-color: rgb(45, 20, 68); 
+}
+*{
+    color: aliceblue;
+
+}
+article p{
+    color: black;
+    background-color:rgb(230, 193, 145); 
+}

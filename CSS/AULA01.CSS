@@ -1,0 +1,30 @@
+*{
+    margin: 30px;
+}
+body {
+    background-color: rgb(212, 197, 226);
+}
+
+h1 {
+    color: rgb(34, 7, 59);
+    text-align: center;
+
+}
+h2 {
+    color: rgb(172, 118, 223);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+p {
+    color: rgb(53, 34, 10);
+    text-align: justify;
+   
+
+}
+footer {
+    color: blueviolet;
+    text-align: center;
+
+}

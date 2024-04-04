@@ -1,0 +1,28 @@
+*{
+    margin: 10px; 
+}
+
+body{
+    background-color: rgb(227, 238, 208);
+}
+h1{
+    color: aliceblue;
+    background-color: darkolivegreen; 
+}
+
+#sub{
+    color: aliceblue; 
+    background-color: rgb(137, 173, 74);
+}
+p{
+    color: rgb(24, 32, 8);
+    text-align: justify;  
+}
+footer{
+    color: aliceblue; 
+    background-color: darkolivegreen; 
+    text-align: center;
+}
+.pag{
+    background-color: rgb(218, 195, 166); 
+}

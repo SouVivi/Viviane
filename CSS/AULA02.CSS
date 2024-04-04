@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap');
+
+*{
+    margin: 15px;
+}
+body{
+    background-color: #F2D8A7;
+}
+h1{
+
+    color: #331b06; 
+    text-align: center;
+    background-color: #bb7f4b;
+    font-family: 'Rubik Scribble';
+      
+      
+      }
+        
+h2{
+    color:#261201; 
+    font-family: sans-serif; 
+
+}
+p{
+    color: #734116;
+    font: 20px;
+    text-align: justify;    
+}
+footer{
+    text-align: center;
+    background-color: #b17a4a; 
+
+}
+img{
+    text-align: center;  
+}

@@ -1,0 +1,12 @@
+*{
+    margin: 30px;
+}
+h1{
+    background-color: darkgreen;
+    text-align: left;
+    color: aliceblue;
+}
+h2{
+    background-color: rgb(96, 150, 96);
+    text-align: center;
+}
